@@ -20,6 +20,11 @@ When the panel is clicked, JS will check and either add or remove CSS class acti
 
 ---
 
+Medium:
+https://medium.com/@Enzo61/js-exercise-expanding-card-1727482b648c
+
+---
+
 All images in the project are utilized exclusively for personal educational purposes and adhere to the Digital Millennium Copyright Act (DMCA) regulations.
 
 ---
