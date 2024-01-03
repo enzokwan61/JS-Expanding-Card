@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/enzokwan61/JS-Expanding-Card/blob/main/StreetFighterGif.gif)
 
 ---
 
@@ -7,14 +7,15 @@ The original deliverable:  https://50projects50days.com/projects/expanding-cards
 
 ---
 
-The edits I made included:
-Design style changes (images, color, text, panel layout…)
-Deactivated the default active panel
-Clicking the active panel can now make it inactive 
+The edits I made included:  
+- Design style changes (images, color, text, panel layout…)  
+- Deactivated the default active panel  
+- Clicking the active panel can now make it inactive  
 
 ---
 
-In the HTML, there are div panels that contain background images. It is wrapped by containers in a flex row. CSS is applied to make decoration and animated transitions.
+In the HTML, there are div panels that contain background images. It is wrapped by containers in a flex row. CSS is applied to make decoration and animated transitions.  
+
 When the panel is clicked, JS will check and either add or remove CSS class active to/from the panel, making the outlook changes (When the panel contains CSS classactive , a different set of CSS rules apply to the panel)
 
 ---
