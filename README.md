@@ -1,4 +1,4 @@
-![alt text](https://github.com/enzokwan61/JS-Expanding-Card/blob/main/StreetFighterGif.gif)
+![Street Fighter GIF](https://github.com/enzokwan61/JS-Expanding-Card/raw/main/StreetFightreGif.gif)
 
 ---
 
